@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684182249 source:c:\users\atef\c++\transportation model\main.cpp
+	<iostream>
+	<vector>
+

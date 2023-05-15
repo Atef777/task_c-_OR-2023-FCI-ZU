@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684184334 source:c:\users\atef\c++\graphical sol for min cost or max profit\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
